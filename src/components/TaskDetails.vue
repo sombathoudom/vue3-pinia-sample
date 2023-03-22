@@ -13,6 +13,6 @@
     const props = defineProps({
             task: Object
     });
-   const taskStore = useTaskStore();
+    const taskStore = useTaskStore();
  
 </script>
